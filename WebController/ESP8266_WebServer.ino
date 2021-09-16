@@ -7,8 +7,8 @@
 
 
 #ifndef STASSID
-#define STASSID "PuTao"
-#define STAPSK  "6262024229"
+#define STASSID SSID
+#define STAPSK  PSK
 #endif
 
 const char *ssid = STASSID;
